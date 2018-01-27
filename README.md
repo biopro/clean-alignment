@@ -8,6 +8,16 @@ user can also choose which normalized weight threshold to use by EvalMSA (defaul
 if or not want to use trimAl (default: yes). 
 
 ## Setting up!
+
+### Requeriments
+
+- Python 2.7
+- BioPython
+- Perl
+- R
+
+### Installation
+
 ```
 git clone https://github.com/biopro/clean-alignment
 cd clean-alignment
